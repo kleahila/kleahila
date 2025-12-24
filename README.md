@@ -3,6 +3,6 @@
 I'm **Klea**, a final-year **Computer Engineering student** passionate about building both software and hardware projects.  
 
 - 💻 **Currently working on:** Last Year Bachelor's & Common Core Projects
-- 🌱 **Currently learning:** Full-stack development & Shell scripting  
-- 👀 **Interests:** Coding, Web Development, Piano, Fitness  
+- 🌱 **Currently learning:** Full-stack development, AI Agents, Data Science & Shell scripting  
+- 👀 **Interests:** Coding, Web Development, Fitness  
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/kleahila/) | kleahila05@gmail.com
